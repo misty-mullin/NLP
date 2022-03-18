@@ -1,1 +1,2 @@
-# Design-and-Analysis-of-Experiments
+# NLP 
+This project utilized downloaded data in excel file format. In the beginning stages of the project, cleaning data was of the upmost importance. This removed special characters, numbers, abbreviations, and spaces. Tokenization and lemmatazing also occured at this stage. Then exploratory analysis was conducted that included creation of a word cloud, frequency histogram, LDA, tf-idf, and RAKE algorithm. The end product is to use NLP methods to make predictions of future issues. Python libraries that were used included numpy, pandas, sci-kit learn, PyTorch, TensorFlow, matplotlib, gensim,pickle, pyLDAvis, nltk, and BeautifulSoup amongst others. 
